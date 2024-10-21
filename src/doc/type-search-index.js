@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"pieces","l":"Bishop"},{"p":"board","l":"Board"},{"p":"<Unnamed>","l":"Game"},{"p":"pieces","l":"King"},{"p":"pieces","l":"Knight"},{"p":"pieces","l":"Pawn"},{"p":"pieces","l":"Piece"},{"p":"utils","l":"Position"},{"p":"pieces","l":"Queen"},{"p":"pieces","l":"Rook"}]
